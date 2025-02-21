@@ -43,5 +43,4 @@ I'm a passionate developer diving deep into system development, .NET technologie
 - **Game Development:**  
   Console-based and small web games  
 
-## GitHub Stats 📈  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blockplocker&show_icons=true&theme=radical)  
+[Not visable]: # "## GitHub Stats 📈  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blockplocker&show_icons=true&theme=radical)  "
