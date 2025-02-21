@@ -44,3 +44,4 @@ I'm a passionate developer diving deep into system development, .NET technologie
   Console-based and small web games  
 
 [Not visable]: # "## GitHub Stats 📈  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blockplocker&show_icons=true&theme=radical)  "
+[Not visable]: # "https://github-readme-stats.vercel.app/api?username=blockplocker&hide=contribs,prs,issues&theme=github_dark&hide_rank=true"
