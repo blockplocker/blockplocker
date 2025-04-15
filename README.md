@@ -29,7 +29,10 @@ I'm a passionate developer diving deep into system development, .NET technologie
 
 - **Frontend & Web:**  
   ![Astro](https://img.shields.io/badge/-Astro-FF5A03?style=flat-square&logo=astro&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+  ![.net Maui](https://img.shields.io/badge/-.NET%20Maui-CC2927?style=flat-square&logo=.net-maui&logoColor=white)
+  
 
 - **Cloud & DevOps:**  
   ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) 
@@ -41,7 +44,7 @@ I'm a passionate developer diving deep into system development, .NET technologie
   ![Networking](https://img.shields.io/badge/-Networking-0078D6?style=flat-square&logo=cisco&logoColor=white)  
 
 - **Game Development:**  
-  Console-based and small web games  
+  Console-based, games in .NET maui and web games  
 
 [Not visable]: # "## GitHub Stats 📈  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blockplocker&show_icons=true&theme=radical)  "
 [Not visable]: # "https://github-readme-stats.vercel.app/api?username=blockplocker&hide=contribs,prs,issues&theme=github_dark&hide_rank=true"
